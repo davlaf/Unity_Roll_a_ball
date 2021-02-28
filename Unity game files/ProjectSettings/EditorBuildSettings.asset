@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/Title Screen.unity
+    guid: d9a7847711dcc684e9a316047f319a2d
+  - enabled: 1
+    path: Assets/_Scenes/camera changes.unity
+    guid: f48634ad524b1c64191ca5b3035be35b
